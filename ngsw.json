@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1570624384476,
+  "timestamp": 1570626576400,
   "index": "https://navjotsrmtpl.github.io/PWA-example/index.html",
   "assetGroups": [
     {
@@ -54,7 +54,7 @@
     "https://navjotsrmtpl.github.io/PWA-example/index.html": "b01dd77c0bd9c676600c4a6c576ae94cb25a3e85",
     "https://navjotsrmtpl.github.io/PWA-example/main-es2015.e562ab24206a56ecd8fd.js": "32f05a4651d4f38a9a510b2a1cfcf9264d7e49bf",
     "https://navjotsrmtpl.github.io/PWA-example/main-es5.e562ab24206a56ecd8fd.js": "ec363744278825b06f587eecd150e4c9d46ba41a",
-    "https://navjotsrmtpl.github.io/PWA-example/manifest.webmanifest": "b0340313d40f4fdefef5d6e4d232a8f473852450",
+    "https://navjotsrmtpl.github.io/PWA-example/manifest.webmanifest": "a8c8da4cbdf7d6ddff667859f8de3ac9cb903b89",
     "https://navjotsrmtpl.github.io/PWA-example/polyfills-es2015.d3e61f0dd2b58e518eca.js": "e2f28c3743afd2899e140ad831df9675c233c02b",
     "https://navjotsrmtpl.github.io/PWA-example/polyfills-es5.f8b5a32bf736d11d106f.js": "bc55c457c97924a880c8c5bee5337b8d12a7d7d8",
     "https://navjotsrmtpl.github.io/PWA-example/runtime-es2015.b948044840398824f16e.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
