@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1570616647841,
+  "timestamp": 1570616922249,
   "index": "https://navjotsrmtpl.github.io/PWA-example/index.html",
   "assetGroups": [
     {
@@ -51,7 +51,7 @@
     "https://navjotsrmtpl.github.io/PWA-example/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://navjotsrmtpl.github.io/PWA-example/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://navjotsrmtpl.github.io/PWA-example/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://navjotsrmtpl.github.io/PWA-example/index.html": "3f560e1455a6db190bcf16a0889c1fc800e6f9f5",
+    "https://navjotsrmtpl.github.io/PWA-example/index.html": "9eac12dc28b21f7e9c96b72e06fb577b8661b2b0",
     "https://navjotsrmtpl.github.io/PWA-example/main-es2015.2412db6eb6f79ee8f2a4.js": "5e91d8e205fd1edd98db1e2b67f6902ec02ceee9",
     "https://navjotsrmtpl.github.io/PWA-example/main-es5.2412db6eb6f79ee8f2a4.js": "0bde2ef5cf738f6e7ee8848c748900b00656c0d6",
     "https://navjotsrmtpl.github.io/PWA-example/manifest.webmanifest": "3665659a1b50edb8c70b5779d0f03f0cab0de56d",
